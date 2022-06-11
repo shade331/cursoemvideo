@@ -1,4 +1,4 @@
-print(f'{"LOJAS SHADEZORD":=^40}')
+print(f'{"LOJAS SHADEZORD":=^40}')  # :=^40 Significa que o texto será centralizado com 40 espaços de '='
 p = float(input('Preço das compras: R$'))
 print('''FORMAS DE PAGAMENTO
 [ 1 ] à vista dinheiro/cheque

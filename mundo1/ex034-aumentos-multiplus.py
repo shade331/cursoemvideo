@@ -1,4 +1,4 @@
-s = float(input('Qual é o salário do funcionério? R$'))
+s = float(input('Qual é o salário do funcionário? R$'))
 if s <= 1250:
     a = s * 1.15
 else:
